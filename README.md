@@ -17,9 +17,10 @@ https://www.anaconda.com/products/distribution
 
 ## Step 2: Create the Conda Environment
 
-1. Open a terminal (or Anaconda Prompt on Windows).  
-2. Navigate to the folder containing the `environment.yml` file.  
-3. Run the following command to create the environment: 'conda env create -f environment.yml'
+
+1. Navigate to the folder containing the `environment.yml` file.  
+2. Run the following command to create the environment:
+   `conda env create -f environment.yml`
 
 ---
 
@@ -37,8 +38,9 @@ https://www.anaconda.com/products/distribution
 
 ## Additional Notes
 
-- To activate the created environment, use: 'conda activate your_env_name'
-- 
+- To activate the created environment, use:
+-  `conda activate your_env_name`
+  
 - Replace `your_env_name` with the name specified in `environment.yml`.
 
 ---
