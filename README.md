@@ -1,13 +1,12 @@
 # Microgrid simple implementation
+
 This system is a Python-based implementation that models and optimizes microgrid operations using IBM CPLEX.
 
-    **Input:** The system takes configuration data and constraints related to microgrid components (generators, loads, storage, etc.).
+- **Input:** The system takes configuration data and constraints related to microgrid components (generators, loads, storage, etc.).  
+- **Optimization:** It formulates the microgrid operation as an optimization problem and solves it with CPLEX to find the best operational schedule.  
+- **Output:** The result includes optimized schedules and operation costs, which help in efficient energy management.
 
-    **Optimization: **It formulates the microgrid operation as an optimization problem and solves it with CPLEX to find the best operational schedule.
-
-   ** Output:** The result includes optimized schedules and operation costs, which help in efficient energy management.
-
-This is a rewrite of the original MATLAB implementation found here, now designed to be more accessible in Python.
+   This is a rewrite of the original MATLAB implementation found here, now designed to be more accessible in Python.
 
 # Project Setup Instructions
 
