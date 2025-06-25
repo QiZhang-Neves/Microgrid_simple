@@ -6,7 +6,7 @@ This system is a Python-based implementation that models and optimizes microgrid
 - **Optimization:** It formulates the microgrid operation as an optimization problem and solves it with CPLEX to find the best operational schedule.  
 - **Output:** The result includes optimized schedules and operation costs, which help in efficient energy management.
 
-   This is a rewrite of the original MATLAB implementation found here, now designed to be more accessible in Python.
+   This is a rewrite of the original MATLAB implementation.
 
 # Project Setup Instructions
 
